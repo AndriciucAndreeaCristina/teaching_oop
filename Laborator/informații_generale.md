@@ -36,5 +36,8 @@ Cerințe:
 
 <details>
   <summary><h2>Proiectul 3</h2></summary>
+Cerințe:
 
+- Implementare template-uri
+- Implementare design pattern-uri
 </details>
