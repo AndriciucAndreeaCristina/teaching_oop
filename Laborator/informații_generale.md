@@ -7,6 +7,8 @@
   * 2 zile întârziere: -30% din notă
   * 3 zile întârziere: -50% din notă
   * peste 3 zile întârziere: proiectul va fi notat cu 0
+ 
+ Alegere tema 1: https://forms.gle/Z8PiN475bQNegFAs6
 
 <details>
   <summary><h2>Proiectul 1</h2></summary>
