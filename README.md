@@ -10,6 +10,7 @@ $`N = 0.25 * L + 0.25*C + 0.25*E + B `$ unde <br>
 &nbsp;&nbsp;&nbsp; B = puncte bonus acumulate la curs (Kahoot) și/sau seminar (prezență, răspunsuri etc)
 
 ## Laborator:
+Formular alegere tema 1: https://forms.gle/Z8PiN475bQNegFAs6
 Mai multe informații despre laborator găsiți [aici](https://github.com/AndriciucAndreeaCristina/teaching_oop/blob/main/Laborator/informa%C8%9Bii_generale.md).
 
 ## Seminar
