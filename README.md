@@ -9,6 +9,8 @@ $`N = 0.25 * L + 0.25*C + 0.25*E + B `$ unde <br>
 &nbsp;&nbsp;&nbsp; E = nota la examenul scris (6 întrebări teorie + 12 întrebări practice) <br>
 &nbsp;&nbsp;&nbsp; B = puncte bonus acumulate la curs (Kahoot) și/sau seminar (prezență, răspunsuri etc)
 
+Link teams: https://tinyurl.com/teamsPOO
+
 ## Laborator:
 Formular alegere tema 1: https://forms.gle/Z8PiN475bQNegFAs6 
 
