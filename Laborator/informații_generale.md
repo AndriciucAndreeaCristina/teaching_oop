@@ -28,21 +28,23 @@ Cerințe:
 <details>
   <summary><h2>Proiectul 2</h2></summary>
 Cerințe:
-- cerintele de la proiectul 1
-- mosteniri (multiple și în lanț obligatoriu) - măcar 2 ierarhii distincte 
-- clase abstracte
-- functii virtuale (cat mai multe, dar cu sens), apelate prin pointeri la clasa de bază
-- static si const mai mult decat la primul proiect 
-- upcasting + downcasting 
-- tratare exceptii
-- STL
-- implementarea a cel putin două funcționalități noi specifice temei (mai mult decat CRUD-uri)
-- fara variabile globale sau functii independente (clase helper)
-- clean code
+ 
+  - cerintele de la proiectul 1
+  - mosteniri (multiple și în lanț obligatoriu) - măcar 2 ierarhii distincte 
+  - clase abstracte
+  - functii virtuale (cat mai multe, dar cu sens), apelate prin pointeri la clasa de bază
+  - static si const mai mult decat la primul proiect 
+  - upcasting + downcasting 
+  - tratare exceptii
+  - STL
+  - implementarea a cel putin două funcționalități noi specifice temei (mai mult decat CRUD-uri)
+  - fara variabile globale sau functii independente (clase helper)
+  - clean code
 
 Nu strica: separarea codului din clase în fișiere header (.h/.hpp etc.) și surse (.cpp etc.)
 clasele mici și legate între ele se pot afla în aceeași pereche de fișiere header-sursă
 FĂRĂ using namespace std în fișiere .h la nivel global
+
 </details>
 
 <details>
