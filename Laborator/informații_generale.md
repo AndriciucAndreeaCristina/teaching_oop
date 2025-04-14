@@ -9,7 +9,8 @@
   * peste 3 zile întârziere: proiectul va fi notat cu 0
  
  Alegere tema 1: https://forms.gle/Z8PiN475bQNegFAs6
-
+Deadline tema 2: 4 Mai
+Deadline tema 3: 26 Mai
 <details>
   <summary><h2>Proiectul 1</h2></summary>
 Cerințe:
@@ -27,13 +28,23 @@ Cerințe:
 <details>
   <summary><h2>Proiectul 2</h2></summary>
 Cerințe:
+ 
+  - cerintele de la proiectul 1
+  - mosteniri (multiple și în lanț obligatoriu) - măcar 2 ierarhii distincte 
+  - clase abstracte
+  - functii virtuale (cat mai multe, dar cu sens), apelate prin pointeri la clasa de bază
+  - static si const mai mult decat la primul proiect 
+  - upcasting + downcasting 
+  - tratare exceptii
+  - STL
+  - implementarea a cel putin două funcționalități noi specifice temei (mai mult decat CRUD-uri)
+  - fara variabile globale sau functii independente (clase helper)
+  - clean code
 
-- Folosirea moștenirii (clasele derivate conțin contructori parametrizați prin care se evidențiază transmiterea parametrilor către constructorul clasei de bază)
-- Ilustrarea conceptelor de upcasting/downcasting, funcții virtuale
-- Utilizarea de funcții și variabile statice și const
-- Tratarea excepțiilor
-- Meniu interactiv
-- Clean code
+Nu strica: separarea codului din clase în fișiere header (.h/.hpp etc.) și surse (.cpp etc.)
+clasele mici și legate între ele se pot afla în aceeași pereche de fișiere header-sursă
+FĂRĂ using namespace std în fișiere .h la nivel global
+
 </details>
 
 <details>
