@@ -51,6 +51,6 @@ FĂRĂ using namespace std în fișiere .h la nivel global
   <summary><h2>Proiectul 3</h2></summary>
 Cerințe:
 
-- Implementare template-uri
-- Implementare design pattern-uri
+- Implementare 2 template-uri (doua functii sau 2 clase sau o functie si o clasa)
+- Implementare 3 design pattern-uri (unul behavioral, unul structural si unul creational)
 </details>
